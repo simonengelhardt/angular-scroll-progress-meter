@@ -1,0 +1,27 @@
+{
+  "name": "angular-scroll-progress-meter",
+  "version": "0.1.0",
+  "authors": [
+    "Simon Engelhardt <simon@engelhardt.io>"
+  ],
+  "description": "A simple AngularJS directive to update the width CSS property of an element based on scroll position within another element",
+  "main": "scroll-progress-meter.js",
+  "keywords": [
+    "scroll",
+    "progress",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.14",
+    "lodash": "~2.4.1",
+    "jquery": "~2.1.0"
+  }
+}
